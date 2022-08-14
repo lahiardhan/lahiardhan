@@ -21,8 +21,8 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/lahiardhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lahiardhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lahiardhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -30,7 +30,7 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 - <a href="https://linkedin.com/in/lahiardhan/">LinkedIn</a>
 - <a href="https://lahiardhan.vercell.app">lahiardhan.vercell.app</a>
 - lahia.ardhanm@gmail.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://twitter/anjinglauthias">Twitter</a>
 
 <!--
 **lahiardhan/lahiardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
