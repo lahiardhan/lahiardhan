@@ -2,7 +2,7 @@
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+I'm currently active in exploring Front end website development technologies
 
 - 🔭 I’m currently studying at Padjadjaran University majoring in Physics
 - 🌱 I’m currently learning about Front-End Website Development
