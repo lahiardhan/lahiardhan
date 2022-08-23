@@ -4,7 +4,7 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm currently active in exploring Front end website development technologies
 
-- 🔭 I’m currently studying at <a href="https://www.unpad.ac.id/">Padjadjaran University</a> majoring in Physics
+- 🔭 I’m currently studying at <a href="https://www.unpad.ac.id/" target="_blank">Padjadjaran University</a> majoring in Physics
 - 🌱 I’m currently learning about Front-End Website Development
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: lahia.ardhanm@gmail.com
