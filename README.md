@@ -15,7 +15,7 @@ I'm currently active in exploring Front end website development technologies
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" height="21px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" /></a>
+  <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" height="18px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" /></a>
   <br>
   <br>
   
