@@ -26,10 +26,10 @@ I'm currently active in exploring Front end website development technologies
 </p>
 
 ### Reach me on 📫
-- <a href="https://linkedin.com/in/lahiardhan/"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" /></a>
-- <a href="https://lahiardhan.vercell.app">lahiardhan.vercell.app</a>
-- <lahia.ardhanm@gmail.com>
-- <a href="https://twitter/anjinglauthias">Twitter</a>
+<a href="https://linkedin.com/in/lahiardhan/"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" /></a>
+<a href="<lahia.ardhanm@gmail.com>"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/G/google-gmail-logo-620D76A63C-seeklogo.com.png" /></a>
+<a href="https://lahiardhan.vercell.app">lahiardhan.vercell.app</a>
+<a href="https://twitter/anjinglauthias">Twitter</a>
 
 <!--
 **lahiardhan/lahiardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
