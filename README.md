@@ -26,7 +26,7 @@ I'm currently active in exploring Front end website development technologies
 </p>
 
 ### Reach me on 📫
-- <a href="https://linkedin.com/in/lahiardhan/">LinkedIn</a>
+- <a href="https://linkedin.com/in/lahiardhan/"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/vector-logo/393964/linkedin-new-2020" /></a>
 - <a href="https://lahiardhan.vercell.app">lahiardhan.vercell.app</a>
 - <lahia.ardhanm@gmail.com>
 - <a href="https://twitter/anjinglauthias">Twitter</a>
