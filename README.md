@@ -30,7 +30,7 @@ I'm currently active in exploring Front end website development technologies
 ### Reach me on 📫
 <a href="https://linkedin.com/in/lahiardhan/"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" /></a>
 <a href="mailto:lahia.ardhanm@gmail.com"><img align="left" alt="email" width="21px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a>
-<a href="https://lahiardhan.vercell.app"><img align="left" alt="personal-website" width="21px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a>
+<a href="https://lahiardhan.vercell.app"><img align="left" alt="personal-website" width="21px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" /></a>
 <a href="https://twitter/anjinglauthias"><img align="left" alt="twitter" width="21px" src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-94339974C6-seeklogo.com.png" /></a>
 
 <!--
