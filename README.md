@@ -7,7 +7,7 @@ I'm currently active in exploring Front end website development technologies
 - 🔭 I’m currently studying at <a href="https://www.unpad.ac.id/" target="_blank">Padjadjaran University</a> majoring in Physics
 - 🌱 I’m currently learning about Front-End Website Development
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: lahia.ardhanm@gmail.com
+- 📫 How to reach me: <lahia.ardhanm@gmail.com>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -28,7 +28,7 @@ I'm currently active in exploring Front end website development technologies
 ### Reach me on 📫
 - <a href="https://linkedin.com/in/lahiardhan/">LinkedIn</a>
 - <a href="https://lahiardhan.vercell.app">lahiardhan.vercell.app</a>
-- lahia.ardhanm@gmail.com
+- <lahia.ardhanm@gmail.com>
 - <a href="https://twitter/anjinglauthias">Twitter</a>
 
 <!--
