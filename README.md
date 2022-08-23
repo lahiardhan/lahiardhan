@@ -11,9 +11,11 @@ I'm currently active in exploring Front end website development technologies
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" width="21px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" /></a>
   <br>
   <br>
   
@@ -26,10 +28,10 @@ I'm currently active in exploring Front end website development technologies
 </p>
 
 ### Reach me on 📫
-<a href="https://linkedin.com/in/lahiardhan/"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" /></a>
-<a href="mailto:lahia.ardhanm@gmail.com"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a>
-<a href="https://lahiardhan.vercell.app"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a>
-<a href="https://twitter/anjinglauthias"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a>
+<a href="https://linkedin.com/in/lahiardhan/"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" /></a>
+<a href="mailto:lahia.ardhanm@gmail.com"><img align="left" alt="email" width="21px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a>
+<a href="https://lahiardhan.vercell.app"><img align="left" alt="personal-website" width="21px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a>
+<a href="https://twitter/anjinglauthias"><img align="left" alt="twitter" width="21px" src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-94339974C6-seeklogo.com.png" /></a>
 
 <!--
 **lahiardhan/lahiardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
