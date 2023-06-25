@@ -1,12 +1,11 @@
 ### Hi! 👋 I'm Ardhan.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about Machine Learning, AI, and Web technology! I've enjoyed Python also Javascript and make it the main language in creating a project.
  
-I'm currently active in exploring Front-End website development and Machine Learning
+I'm currently active in exploring Machine Learning and Data Science.
 
 - 🔭 I’m currently studying at <a href="https://www.unpad.ac.id/">Padjadjaran University</a> majoring in Physics
-- 🌱 I’m currently learning about Front-End Website Development
-- 💬 Feel free to ask me about web development or JavaScript
+- 🌱 I’m currently learning about Machine Learning
 - 📫 How to reach me: <lahia.ardhanm@gmail.com>
 
 ### Tech Stack
