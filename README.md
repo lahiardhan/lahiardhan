@@ -11,7 +11,7 @@
 
 - 🌱 I’m always learning everything in the world of Data and AI **with the power of Python, Scikit-Learn, TensorFlow, Tableau, Power BI, and many more...**
 
-- 👨‍💻 All of my projects are available at [lahiardhan.my.canva.site](lahiardhan.my.canva.site)
+- 👨‍💻 All of my projects are available at [lahiardhan.my.canva.site](https://lahiardhan.my.canva.site)
 
 - 📫 How to reach me **lahia.ardhanm@gmail.com**
 
