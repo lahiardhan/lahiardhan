@@ -1,50 +1,28 @@
-### Hi! 👋 I'm Ardhan.
+<h1 align="center">Hi 👋, I'm Ardhan</h1>
+<h3 align="center">A passionate Data Scientist.</h3>
 
-An independent Software Engineer who loves to create and share projects about Machine Learning, AI, and Web technology! I've enjoyed Python also Javascript and make it the main language in creating a project.
- 
-I'm currently active in exploring Machine Learning and Data Science.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiardhan&label=Profile%20views&color=0096e0&style=plastic" alt="lahiardhan" /> </p>
 
-- 🔭 I’m currently studying at <a href="https://www.unpad.ac.id/">Padjadjaran University</a> majoring in Physics
-- 🌱 I’m currently learning about Machine Learning
-- 📫 How to reach me: <lahia.ardhanm@gmail.com>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahiardhan" alt="lahiardhan" /></a> </p>
 
-### Tech Stack
-  <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://designlooter.com/images/python-svg-1.png" /></a>
-  <a href="#"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://i0.wp.com/albertfattal.com/wp-content/uploads/2018/03/Tensorflow_logo.svg.png?ssl=1" /></a>
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" height="21px" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" height="15px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" /></a>
-  <br>
-  <br>
-  
-### Github Statistic
+- 🌱 I’m always learning everything in the Data and AI World **utilizes the power of Python, Scikit-Learn, TensorFlow, Tableau, Power BI, and many more...**
+
+- 👨‍💻 All of my projects are available at [lahiardhan.my.canva.site](lahiardhan.my.canva.site)
+
+- 📫 How to reach me **lahia.ardhanm@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eAXXHzGEay8IwWICBDNMAm1KzPBgc1_e?usp=drive_link](https://drive.google.com/drive/folders/1eAXXHzGEay8IwWICBDNMAm1KzPBgc1_e?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/lahiardhan">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lahiardhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lahiardhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<a href="https://linkedin.com/in/lahiardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiardhan" height="30" width="40" /></a>
 </p>
 
-### Reach me on 📫
-<a href="https://linkedin.com/in/lahiardhan/"><img align="left" alt="linkedin" width="21px" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" /></a>
-<a href="mailto:lahia.ardhanm@gmail.com"><img align="left" alt="email" width="21px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a>
-<a href="https://lahiardhan.vercell.app"><img align="left" alt="personal-website" width="21px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" /></a>
-<a href="https://twitter/anjinglauthias"><img align="left" alt="twitter" width="21px" src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-94339974C6-seeklogo.com.png" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<!--
-**lahiardhan/lahiardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiardhan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="lahiardhan" /></p>
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahiardhan&show_icons=true&theme=tokyonight&locale=en" alt="lahiardhan" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahiardhan&theme=dark" alt="lahiardhan" /></p>
