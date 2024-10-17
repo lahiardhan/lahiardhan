@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lahia.ardhanm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eAXXHzGEay8IwWICBDNMAm1KzPBgc1_e?usp=drive_link](https://drive.google.com/drive/folders/1eAXXHzGEay8IwWICBDNMAm1KzPBgc1_e?usp=drive_link)
+- 📄 Know about my experiences [Download my CV](https://drive.google.com/drive/folders/1eAXXHzGEay8IwWICBDNMAm1KzPBgc1_e?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
